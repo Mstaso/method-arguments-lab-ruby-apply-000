@@ -1,3 +1,3 @@
 Def introduction (name)
-puts ""
+puts "Hi, my name is #{name}"
 end
